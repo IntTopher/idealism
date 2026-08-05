@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Topher的网站</title>
+</head>
+<body>
+<div style="
+    background-color:#f5e6e6;
+    text-align:center;
+    padding:40px;
+">
+<img src="https://kangwenchang.com/logo.png" alt="康文昌" width="80px" height="80px" />
+</div>
+<div style="
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 15px;
+    line-height: 1.7;
+">
+    <em>Some deserts of this planet were oceans once</em><br><br>
+    <em>Somewhere shrouded by the night,the sun will shine</em><br><br>
+    <em>Sometimes I see a dying bird fall to the ground</em><br><br>
+    <em>But it used to fly so high</em><br><br>
+    <em>May you,the beauty of this world,always shine.</em><br><br>
+</div>
+<div style="
+    background-color:#f5e6e6;
+    text-align:center;
+    padding:40px;
+    font-size:12px;
+">
+<p>Topher的网站</p>
+<a href="https://ys.mihoyo.com">点此前往原神</a>
+</div>
+</body>
+</html>
